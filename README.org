@@ -1,0 +1,10 @@
+* csv-validator
+
+Validates tabular CSV data using predefined validations, inspired from
+its Python homologue "Great Expectations".
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/KoenvdBerg/csv-validator.git |
+| commit  | 4841cf1                                             |
+| systems | csv-validator                                       |
+|---------+-----------------------------------------------------|
